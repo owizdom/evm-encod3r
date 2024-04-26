@@ -22,8 +22,8 @@ feel free to fork and practice with the project
 
 Fun fact: It was developed on Remix
 
-Credits/Resources used in creating this:
+### Credits/Resources used in creating this:
 
-[reverse-evm-calldata-poc]By Otaiki1 (https://github.com/Otaiki1/reverse-evm-calldata-poc)
+[reverse-evm-calldata-poc](https://github.com/Otaiki1/reverse-evm-calldata-poc)
 
 [abi-encode-and-decode-using-solidity](https://medium.com/coinmonks/abi-encode-and-decode-using-solidity-2d372a03e110)
